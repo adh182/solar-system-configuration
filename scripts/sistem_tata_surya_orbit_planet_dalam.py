@@ -1,7 +1,5 @@
 from vpython import *
 
-#PEMODELAN SISTEM TATA SURYA
-#ISLAMUDDIN ALIMURRIJAL 185090300111018
 
 scene = canvas(title='Sistem Tata Surya',
                width=1200, height=550,
